@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+DesafioFundamentos/.vscode/tasks.json
+.gitignore
+DesafioFundamentos/.vscode/launch.json
